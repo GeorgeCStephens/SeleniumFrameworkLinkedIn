@@ -77,6 +77,5 @@ Login(Username, Password)
 ClickOnTabNavbar("My Network")
 FollowPeople(8)
 #Search(SearchTerm)
-print(driver.title)
 QuitWebPage()
 
